@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68584478-8323-4df3-a297-eeb7487a54ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/starnavi_test2/Post_api" />
+  </component>
+  <component name="ProjectId" id="1atmSUb2oVynse4tu5l1JDI62A5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68584478-8323-4df3-a297-eeb7487a54ec" name="Default Changelist" comment="" />
+      <created>1587563265106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587563265106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/starnavi_test2/Post_api" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587564034499">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="487" y="154" width="424" height="484" key="FileChooserDialogImpl/43.27.1323.741@43.27.1323.741" timestamp="1587564034499" />
+    <state x="544" y="296" key="Github.ShareDialog" timestamp="1587563972120">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="544" y="296" key="Github.ShareDialog/43.27.1323.741@43.27.1323.741" timestamp="1587563972120" />
+    <state x="193" y="31" key="SettingsEditor" timestamp="1587564060104">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="193" y="31" key="SettingsEditor/43.27.1323.741@43.27.1323.741" timestamp="1587564060104" />
+    <state x="446" y="80" width="551" height="632" key="svn.repositoryBrowser" timestamp="1587563618511">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="446" y="80" width="551" height="632" key="svn.repositoryBrowser/43.27.1323.741@43.27.1323.741" timestamp="1587563618511" />
+  </component>
+</project>
